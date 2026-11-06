@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Seth Castañeda | AI-Assisted Software Developer">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1024"/><stop offset="1" stop-color="#102742"/></linearGradient><linearGradient id="accent"><stop stop-color="#67E8F9"/><stop offset=".6" stop-color="#818CF8"/><stop offset="1" stop-color="#C084FC"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="340" rx="18" fill="url(#bg)"/><rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+<circle cx="1020" cy="100" r="190" fill="#4853A8" opacity=".14"/>
+<rect x="55" y="48" rx="13" width="268" height="30" fill="#17334A" stroke="#3E7F94"/><text x="70" y="68" font-family="Arial,sans-serif" font-size="13" letter-spacing="1.1" fill="#8AE5EE">●  BUILT FOR REAL-WORLD IMPACT</text>
+<text x="53" y="151" font-family="Arial,sans-serif" font-weight="bold" font-size="61" fill="#EDF3FF">Seth <tspan fill="#86CFF6">Castañeda</tspan></text>
+<text x="57" y="197" font-family="Arial,sans-serif" letter-spacing="2" font-size="19" font-weight="bold" fill="#D2DFFF">AI-ASSISTED SOFTWARE DEVELOPER</text>
+<rect x="57" y="217" width="515" height="3" rx="2" fill="url(#accent)"/>
+<text x="57" y="260" font-family="Arial,sans-serif" font-size="18" fill="#C4D6EB">Customer insight  →  Product thinking  →  Working software</text>
+<text x="57" y="296" font-family="Arial,sans-serif" font-size="13" letter-spacing="1.2" fill="#8EA9CC">INTERNAL TOOLS  /  AUTOMATION  /  END-TO-END DELIVERY</text>
+<rect x="812" y="57" width="324" height="239" rx="14" fill="#162741" stroke="#5D779E"/>
+<path d="M826 57H1122Q1136 57 1136 71V97H812V71Q812 57 826 57" fill="#253956"/>
+<circle cx="838" cy="77" r="5" fill="#FB7185"/><circle cx="857" cy="77" r="5" fill="#FBBF24"/><circle cx="876" cy="77" r="5" fill="#34D399"/>
+<text x="905" y="82" fill="#C2D3E8" font-size="12" font-family="monospace">delivery.pipeline</text>
+<text x="836" y="135" fill="#80DFEE" font-size="16" font-family="monospace">plan(idea);</text>
+<text x="836" y="169" fill="#BDD0F2" font-size="16" font-family="monospace">buildWithAI();</text>
+<text x="836" y="203" fill="#BDD0F2" font-size="16" font-family="monospace">testAndImprove();</text>
+<rect x="833" y="232" width="282" height="41" rx="9" fill="#0B3435" stroke="#218B82"/><text x="852" y="258" fill="#A6F3CA" font-size="14" font-family="Arial,sans-serif" font-weight="bold">✓  SHIPPED · READY TO ITERATE</text>
+</svg>
