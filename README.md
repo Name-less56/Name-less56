@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./banner.svg" alt="Seth Castañeda" width="100%" />
+</div>
+
+<br>
+
 # Hi, I'm Seth Castañeda
 
 ### AI-Assisted Product Builder | Internal Tools & Automation
