@@ -11,7 +11,7 @@
 
 <br />
 
-## Hi, I'm Seth 👋
+## Hi, I'm Seth
 
 I build software around real problems. My background in **Customer Service** taught me how people actually experience products; my work in **AI-assisted development** lets me turn those insights into useful applications.
 
